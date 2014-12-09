@@ -54,7 +54,7 @@ header {
 
 .account-status {
   position: absolute;
-  right: 10px;
+  right: 30px;
   padding: 8px 15px 8px 15px;
   background-color: #ECECEC;
 }
@@ -117,6 +117,8 @@ header {
 .navigation-bar li a:hover {
       color: white;
       background-color: #EA664F; 
+      border: 2px solid white;
+
 }
 
 
