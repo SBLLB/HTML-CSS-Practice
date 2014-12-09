@@ -234,4 +234,18 @@ main{
   float: right;
   width: 73%;
   /*display: inline;*/
-}ß
+}
+
+.delivery-selections h2 {
+	padding: 35px 0 10px 0;
+}
+
+.delivery-selections .dashed-line {
+	width:100%;  
+  border-top: 2px dotted #ECECEC;
+}
+.delivery-selections strong {
+  font-weight: bold;
+}
+
+
