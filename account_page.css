@@ -84,3 +84,36 @@ header {
   font-size: .95em;
 }
 
+/*========================
+    NAV BAR 
+========================*/
+
+.navigation-bar ul {
+    text-align:center;
+}
+.navigation-bar ul li { 
+    display: inline; 
+    margin: 50px 10px 0 10px;
+}
+.navigation-bar li a {
+    display: block;
+    padding: 15px 15px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: .9em;
+    border: 2px solid #ECECEC;
+    border-radius: 3px;
+    float: none;
+    display: inline;
+    background-color: white;
+}
+
+
+
+/*=============================
+   			MAIN  
+==============================*/
+main{
+  position: absolute;
+  width: 90%;
+  margin-top: 4.2em;
+}
