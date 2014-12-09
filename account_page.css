@@ -221,6 +221,9 @@ main{
   margin: 4px 0 0 0;
 }
 
+.selected-recipe:hover .recipe-name {
+  visibility: visible;
+}
 
 /*========================
  MENU CHOICES   
